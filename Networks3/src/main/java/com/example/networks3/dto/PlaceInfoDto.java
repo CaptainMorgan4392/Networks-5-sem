@@ -32,7 +32,6 @@ public class PlaceInfoDto {
     private Address address;
 
 
-
     @Data
     @AllArgsConstructor
     public static class Bbox {

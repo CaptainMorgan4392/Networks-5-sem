@@ -10,7 +10,6 @@ public class CoordsDto {
     private Point point;
 
 
-
     @Data
     @AllArgsConstructor
     public static class Point {
